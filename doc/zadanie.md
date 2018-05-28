@@ -6,6 +6,7 @@ wybranego z poniższej listy:
 * http://ecg.vot.pl – serwis edukacyjno-informacyjny,
 * http://lo1.sandomierz.pl/biblio – serwisk biblioteki I LO,
 * http://lo1.sandomierz.pl/eko – serwis ekologiczny I LO,
+* http://hamlet.edu.pl – edukacyjny serwis humanistyczny,
 * serwis dla absolwentów I LO przeznaczony do zbierania informacji o losach
   absolwentów, należy zaproponować koncpecję serwisu i szablony,
 * serwis do komunikacji wewnątrzszkolnej na wzór tablicy ogłoszeń,
